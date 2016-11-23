@@ -1,7 +1,7 @@
 # Lunar-Landing
 Partint de la base que vares fer, he anat fent modificacions fins arribar al resultat que es pot veure. No he tingut massa temps per fer segons quines coses ja que modificar les imatges i trobar la manera de col·locar tot al seu lloc m'ha duit massa temps. No m'ha quedat clar com fer que els _sprites_ siguin més petits i es puguin adaptar al boto de _pause_ ( he intentat tot el que deien als tutorials). I tampoc tenc del tot clar com **superposar una imatge** damunt l'altre sense posar que siguin fixes( si no ho faig així es desquadra tot). 
 
-Primerament vaig crear quatre **contenidors** '<div>'
+Primerament vaig crear quatre **contenidors** <<div>>
 un per el panell de control, un altre per el menú i dos mes per les imatges _png._
 Al contenidor del panell de control vaig afegir quatre contenidors '<div>' més. Els contenidors estan anomenats amb les dades essencials per pilotar la nau. Ho he fet així  perquè crec que es la millor manera per a un futur afegir uns comptadors amb javascript(o crec que es això que s'utilitza per restar vides o posar la velocitat...) . Al document _css_ he utilitzat un **flexbox** per situar aquests contenidors '<div>' al marge esquerra de la pàgina. Només he deixat els requadres interiors del _flexbox_ ja que així em pareixia més bonic estèticament.
 
