@@ -8,7 +8,7 @@ Tots els documents tenen enllaços als menús que duen d'un document al altre.
 Tambe hi han tres documents CSS: 
 * Un document _css_ on hi ha l'apartat estetic del menu i el panell de control del joc.
 * Un document _css_ on hi ha l'imatge de fons de pantalla del lloc i on hi han establertes les mides i posicions de les imatges.
-* Un document _css_ per donar forma als arxius_controles y sobre el juego_ 
+* Un document _css_ per donar forma als arxius _controles y sobre el juego_ 
 
 
 Primerament vaig crear quatre **contenidors**  `<div>`, un per el panell de control, un altre per el menú i dos mes per les imatges _.png_.
