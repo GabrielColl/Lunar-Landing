@@ -1,9 +1,9 @@
 # Lunar-Landing
 Partint de la base que vares fer, he anat fent modificacions fins arribar al resultat que es pot veure. No he tingut massa temps per fer segons quines coses ja que modificar les imatges i trobar la manera de col·locar tot al seu lloc m'ha duit massa temps. No m'ha quedat clar com fer que els _sprites_ siguin més petits i es puguin adaptar al boto de _pause_ ( he intentat tot el que deien als tutorials). I tampoc tenc del tot clar com **superposar una imatge** damunt l'altre sense posar que siguin fixes( si no ho faig així es desquadra tot). 
 He creat tres documents HTML:
--El document del joc.
--El document amb la informació sobre els controls. 
--El document amb la informació bàsica del joc.
+*El document del joc.
+*El document amb la informació sobre els controls. 
+*El document amb la informació bàsica del joc.
 Tots els documents tenen enllaços als menús que duen d'un document al altre.
 
 Primerament vaig crear quatre **contenidors**  `<div>`, un per el panell de control, un altre per el menú i dos mes per les imatges _.png_.
