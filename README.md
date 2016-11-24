@@ -4,6 +4,7 @@ He creat tres documents HTML:
 * El document del joc.
 * El document amb la informació sobre els controls. 
 * El document amb la informació bàsica del joc.
+
 Tots els documents tenen enllaços als menús que duen d'un document al altre.
 Tambe hi han tres documents CSS: 
 * Un document _css_ on hi ha l'apartat estetic del menu i el panell de control del joc.
