@@ -20,4 +20,4 @@ però la imatge sortia molt gran i no la podia reduir al document _css_ (encara 
 
 El següent pas va  ser posar els links de les imatges als altres dos contenidors. Vaig haver de situar el contenidor on hi havia la nau a dalt del tot, res més acabar la capçalera  i el  `<div>` amb la imatge de la lluna en png. abaix del tot ja que si no em sortia la lluna a dalt del tot. Amb el document _css_ vaig reduir les imatges i col·locar-les on volia. **Hi ha un problema amb la lluna. Quan estic descarregant alguna cosa amb el navegador i surt la descarrega abaix la lluna es desplaça cap adalt.** _Se que es perquè està  en posició fixa però si la pos en posició estàtica tot es desquadra. Agrairia que em diguessis com posar-ho bé._
 
-Finalment vaig afegir el fons de pantalla al _css_ i crear dos htmls bàsics amb la informació sobre els controls. 
+Finalment vaig afegir el fons de pantalla al _css_ i crear dos htmls bàsics amb la informació sobre els controls i sobre el joc. 
